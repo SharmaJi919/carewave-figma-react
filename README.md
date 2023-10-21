@@ -1,1 +1,0 @@
-# speetrance-figma-react
